@@ -59,6 +59,7 @@ em {
 table {
     width:100%;
     height:fit-content;
+    border-collapse: collapse;
 
 }
 
