@@ -2,7 +2,7 @@ header {
     
     background-image: url(../img/pattern.png);
     background-color: aqua;
-    background-size: contain;
+    background-size: 30%;
     margin:0
     
 }
