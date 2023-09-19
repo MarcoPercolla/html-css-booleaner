@@ -5,6 +5,9 @@ header {
     
     
 }
+main, footer {
+    margin-left: 1%;
+}
 
 #logo {
 width: 15%;
